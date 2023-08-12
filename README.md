@@ -1,1 +1,3 @@
 # BookManagemenSystem
+
+The overall deliverables for this project would be the enhancement of the bookstore database management system. The whole scope for this project contains two parts which include the design of the Database by both conceptual model and physical model. Our work has been divided into two parts where the first part describes the business requirements of this bookstore database functionality and the second part illustrates all the conceptual and physical models. After Normalizing the model, the data will be populated to the database, and functionality will be tested by data manipulation using SQL based DDL.
